@@ -169,6 +169,9 @@ cython_debug/
 
 # Ruff stuff:
 .ruff_cache/
+.gcp-oauth.keys.json
+gcp-oauth.keys.json
+.gcp-saved-tokens.json
 
 # PyPI configuration file
 .pypirc
